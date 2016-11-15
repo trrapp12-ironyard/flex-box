@@ -1,7 +1,5 @@
 # flex-box
 ---
-<br/>
-<br/>
 ###This project demonstrates the following:
 ---
 <br/>
