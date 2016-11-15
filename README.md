@@ -1,10 +1,10 @@
 # flex-box
 ---
-
+<br/>
+<br/>
 ###This project demonstrates the following:
 ---
-<br/>
-<br/>
+
 - [x] positioning using flex-box.
 - [x] CSS3.
 - [x] HMTL5.
