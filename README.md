@@ -2,7 +2,7 @@
 ---
 <br/>
 
-###This project demonstrates the following:
+### This project demonstrates the following:
 ---
 
 - [x] positioning using flex-box.
@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-###More Information:
+### More Information:
 ---
 <br/>
 <br/>
