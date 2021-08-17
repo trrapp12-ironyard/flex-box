@@ -58,6 +58,7 @@ li {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  flex-flow: column wrap;
   height: 2000px;
   justify-content: flex-start;
   width: 100%;
@@ -81,7 +82,7 @@ li {
   background-color: #DCDCDC;
   display: flex;
   flex-direction: column;
-  flex-flow: row;
+  flex-flow: wrap;
   flex-wrap: wrap;
   height: 1900px;
   justify-content: flex-start;
@@ -97,5 +98,9 @@ li {
   flex-wrap: wrap;
   height: auto;
   justify-content: center;
-  width: auto;
+  width: 100%;
+}
+
+.fill-width {
+  width: 100%;
 }
