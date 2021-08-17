@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: row;
   height: 100px;
-  justify-content: space-around;
+  justify-content: space-between;
   width: 100%;
 }
 
@@ -24,7 +24,7 @@
   background-color: green;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
   width: 60%;
 }
 
@@ -56,10 +56,10 @@ li {
   align-content: center;
   background-color: #CCC;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   height: 2000px;
-  justify-content: space-around;
+  justify-content: flex-start;
   width: 100%;
 }
 
