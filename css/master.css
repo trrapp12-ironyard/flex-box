@@ -12,7 +12,6 @@
 }
 
 .li-parent {
-  background-color: blue;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -21,7 +20,6 @@
 
 .second-nav-div {
   align-items: center;
-  background-color: green;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -38,15 +36,23 @@ ul  {
 }
 
 li {
+  border: solid;
+  border-color: white;
+  box-sizing: border-box;
   display: inline-block;
+  height: 100%;
+  justify-content: center;
   list-style-type: none;
+  padding: 4%;
   top: 20px;
+  width: 31%;
 }
 
-#ul-second {
+.ul-second {
   align-items: center;
   display: flex;
   flex-direction: row;
+  height: 100%;
   justify-content: space-around;
   width: 80%;
 }
