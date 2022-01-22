@@ -1,4 +1,8 @@
-# flex-box
+# Flex Box Demonstration
+
+
+##### Contributors: Trevor Rapp
+
 ---
 <br/>
 
