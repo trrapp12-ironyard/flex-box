@@ -8,7 +8,7 @@
 
 https://user-images.githubusercontent.com/11747875/149464543-ea0af708-27ef-4684-ba48-239694f7caba.mp4
 
-[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/Flex_Box_Photo_Portfolio/)
+[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/flex-box/)
 
 <br>
 <br>
